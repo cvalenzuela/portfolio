@@ -1,0 +1,35 @@
+---
+layout: default
+page-type: post
+---
+
+<div class="container" id="work">
+  <div class="row">
+    <div class="col-xs-12">
+      <h5 id="title">{{ page.title }}</h5>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-10 col-sm-6 col-lg-4">
+      <p class="subtitle" id="subtitle">{{ page.description }}</p>
+    </div>
+  </div>
+  <div class="row" id="description">
+    <div class="col-xs-10 col-sm-8 col-md-8 col-lg-8">
+      {% if page.links %}
+      <div id="links">
+        <h6>
+          {% for link_hash in page.links %}
+            {% for link in link_hash %}
+              <a href="{{ link[1] }}">{{ link[0] }}</a> |
+            {% endfor %}
+          {% endfor %}
+        </h6>
+      </div>
+      {% endif %}
+
+      {{ content }}
+
+    </div>
+  </div>
+</div>

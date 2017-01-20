@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+.tmp
+.sass-cache
+jekyll/_site
+jekyll/assets/images
+jekyll/.sass-cache
+original/builds/development/images/
+original/builds/production/images/
+original/node_modules
+original/.sass-cache
