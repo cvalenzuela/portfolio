@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About | Cristóbal Valenzuela
-permalink: /about/
+permalink: /assets/pdf/resume.pdf
 cv: resume.pdf
 ---
 {:.subtitle}
@@ -13,4 +13,4 @@ Currently a M.P.S Candidate at the Interactive Telecommunications Program (ITP),
 
 {:.subtitle}
 You can write me [here](mailto:{{site.email}})<br/>
-[Here's]({{page.cv}}) my CV.
+[Here is my CV.]({{page.cv}})
