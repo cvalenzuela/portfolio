@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About | Cristóbal Valenzuela
-permalink: /assets/pdf/resume.pdf
-cv: resume.pdf
+permalink: /about/
+cv: ../assets/pdf/resume.pdf
 ---
 {:.subtitle}
 I like to make stuff. <br/>
