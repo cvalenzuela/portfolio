@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Regression"
-date:   2015-01-01
+date:   2016-09-06
 permalink: /works/regression/
 categories: art, installation
 external_link: false

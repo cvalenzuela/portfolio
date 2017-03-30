@@ -5,8 +5,7 @@ permalink: /about/
 cv: ../assets/pdf/resume.pdf
 ---
 {:.subtitle}
-I like to make stuff. <br/>
-But I'm more interested in the intersection of disciplines, in antidisciplinarity.<br/>
+I'm interested in the intersection of disciplines, in antidisciplinarity. <br/>
 
 {:.subtitle}
 Currently a M.P.S Candidate at the Interactive Telecommunications Program (ITP), Tisch School of the Arts, NYU.

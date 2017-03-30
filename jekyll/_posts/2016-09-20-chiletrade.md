@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chile's Imports and Exports"
-date:   2016-06-01
+date:   2016-09-20
 permalink: /works/chiletrade/
 categories: data, visualization
 external_link: false

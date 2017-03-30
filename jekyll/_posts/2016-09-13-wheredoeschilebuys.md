@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Where does Chile buys?"
-date:   2017-01-01
+date:   2016-09-13
 permalink: /works/wheredoeschilebuys/
 categories: data, visualization
 external_link: false

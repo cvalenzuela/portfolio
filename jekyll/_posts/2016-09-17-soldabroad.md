@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sold Abroad"
-date:   2016-03-01
+date:   2016-09-17
 permalink: /works/soldabroad/
 categories: data, visualization
 external_link: false

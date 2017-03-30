@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Missed Oportunity?"
-date:   2016-08-01
+date:   2016-09-08
 permalink: /works/missedopportunity/
 categories: data, visualization
 external_link: true

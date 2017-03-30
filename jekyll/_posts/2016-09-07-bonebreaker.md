@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bone Breaker (AKA Quebrantahuesos)"
-date:   2016-02-01
+date:   2016-09-07
 permalink: /works/bonebreaker/
 categories: web scrapping, node
 external_link: link
