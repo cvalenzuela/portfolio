@@ -2,10 +2,9 @@
 node_modules
 .tmp
 .sass-cache
-jekyll/_site
-jekyll/assets/images
+_site
 jekyll/.sass-cache
-original/builds/development/images/
-original/builds/production/images/
-original/node_modules
-original/.sass-cache
+template/builds/development/images/
+template/builds/production/images/
+template/node_modules
+template/.sass-cache
