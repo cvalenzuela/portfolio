@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trade Flow: Visualize and Listen to Economic data."
+title:  "Trade Flow: Visualize and Listen to Economic data"
 date:   2016-09-22
 permalink: /works/tradeflow/
 categories: data, visualization
