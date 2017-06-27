@@ -6,7 +6,7 @@ permalink: /works/microsoft/
 categories: Mixed Reality
 external_link: false
 thumbnail: /assets/images/works/microsoft/thumbnail.jpg
-description: "A Hololens Mixed Reality application around books."
+description: "A Hololens Mixed Reality application for books."
 links:
   - Microsoft Design Expo: "https://www.microsoft.com/en-us/research/event/design-expo-2017/"
 ---
