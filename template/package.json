@@ -1,29 +1,42 @@
 {
-  "name": "cvalenzuelab",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "my personal site",
-  "main": "gulpfile.js",
-  "dependencies": {},
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-browserify": "^0.5.1",
-    "gulp-coffee": "^1.4.3",
-    "gulp-compass": "^1.3.3",
-    "gulp-concat": "^2.6.1",
-    "gulp-connect": "^5.0.0",
-    "gulp-if": "^1.2.5",
-    "gulp-imagemin": "^0.5.1",
-    "gulp-jsonminify": "^0.0.1",
-    "gulp-minify-html": "^0.1.8",
-    "gulp-uglify": "^0.3.2",
-    "gulp-util": "^2.2.20",
-    "imagemin-pngcrush": "^0.1.0",
-    "jquery": "^2.2.4",
-    "mustache": "^0.8.2"
-  },
+  "description": "template structure for jekyll site",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prebuild": "rimraf dist",
+    "build": "webpack --output-filename bundle.js",
+    "build:min": "webpack --output-filename bundle.min.js -p"
   },
-  "author": "Cristóbal Valenzuela",
-  "license": "ISC"
+  "author": "Cristobal Valenzuela <cvalenzuela@nyu.edu> (https://github.com/cvalenzuela)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-loader": "7.1.1",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-stage-2": "6.24.1",
+    "babel-register": "6.24.1",
+    "css-loader": "0.28.4",
+    "extract-text-webpack-plugin": "3.0.0",
+    "file-loader": "0.11.2",
+    "html-webpack-plugin": "2.29.0",
+    "image-webpack-loader": "3.3.1",
+    "json-loader": "0.5.4",
+    "node-sass": "4.5.3",
+    "rimraf": "2.6.1",
+    "sass-loader": "6.0.6",
+    "style-loader": "0.18.2",
+    "url-loader": "0.5.9",
+    "webpack": "3.1.0",
+    "webpack-dev-server": "2.5.1"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-2"
+    ]
+  },
+  "dependencies": {
+    "bootstrap-grid": "2.0.1"
+  }
 }

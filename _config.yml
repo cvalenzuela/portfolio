@@ -1,7 +1,7 @@
 # Site settings
 title: Cristóbal Valenzuela
 email: cvalenzuela@nyu.edu
-description: "Cristóbal Valenzuela. I keep some of my stuff here."
+description: "Cristóbal Valenzuela. Creative Techno"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cvalenzuelab.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cvalenzuela

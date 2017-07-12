@@ -3,28 +3,20 @@ layout: post
 title:  "Microsoft Design Expo"
 date:   2016-09-23
 permalink: /works/microsoft/
-categories: Mixed Reality
+category: Mixed Reality
 external_link: false
-thumbnail: /assets/images/works/microsoft/thumbnail.jpg
-description: "A Hololens Mixed Reality application for books."
-links:
-  - Microsoft Design Expo: "https://www.microsoft.com/en-us/research/event/design-expo-2017/"
+thumbnail: /assets/images/works/microsoft/thumbnail.gif
+description: "A mixed reality application for the Microsoft Hololens that allows to overlay meta information over books and to explore relationships between different fields, concepts and subjects. This project was part of the 2017 Microsoft Design Expo, the original challenge was: Intentional Design for Positive Cultural Impact in Mixed Reality"
+code: "https://github.com/cvalenzuela/designexpo"
+tools:
+  - Unity
+  - Vuforia
+  - C#
 ---
 
-This project was part of the [2017 Microsoft Design Expo](https://www.microsoft.com/en-us/research/event/design-expo-2017/)
+<div style="height: 50vh; margin-bottom:20px;">
+<iframe src="https://player.vimeo.com/video/214315429" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: relative; height: 100%; width: 100%;"></iframe>
+</div>
 
-We re-imagined the future and potential of learning technologies.
 
-The Challenge was "Intentional Design for Positive Cultural Impact in Mixed Reality"
-
-# (WIP)
-
-<iframe src="https://player.vimeo.com/video/214315429" width="740" height="460" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-### Team
-- [Daniella Garcia](http://cargocollective.com/lobster/CV)
-- [Scott Reitherman](http://pillarpointmusic.com/)
-- [Juan Jose Egusquiza](http://cargocollective.com/juanjose)
-- [Alejandro Matamala](http://matamala.info/)
-- [Kenzo Nakamura](http://kenzonakamura.com/)
-- Cristobal Valenzuela
+![MICROSOFT DESIGN EXPO](/assets/images/works/microsoft/thumbnail.gif "Granjeros 5"){:class="img-responsive"}
