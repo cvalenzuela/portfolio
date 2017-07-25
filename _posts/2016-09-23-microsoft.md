@@ -16,6 +16,7 @@ tools:
   - Unity
   - Vuforia
   - C#
+  - AWS Polly
 more-description: "Re-imagine the future and potential of learning technologies. We are designing a mixed-reality tool that optimizes our experience learning from printed books. Our brains capabilities for attention and deep thinking are diminishing due to our increasingly screen-based lives, and we envision this tool as part of the solution to that problem. 
 
 Just as an expert human tutor might, the technology we propose will understand both the book you are reading and your brain's behavior while learning, guiding you through rich meaning making and discovery. In addition to conversing with your AI tutor, we see great opportunity in the realm of overlaid augmented content being produced by our developers, by book publishers, and by a community of users."
