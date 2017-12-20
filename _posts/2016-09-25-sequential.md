@@ -3,7 +3,7 @@ layout: post
 title:  "Sequential Stories"
 date:   2016-09-25
 permalink: /works/sequential/
-category: Machine Learning
+category: Machine Learning Experiments
 external_link: false
 thumbnail: /assets/images/works/sequential/thumbnail.gif
 description: "The Show and Tell model is a image-to-text model for Tensorflow, developed by Google DeepMind, that takes an input and learns how to describe the content of images. This experimental iOS app uses this feature to generate a series of captions and create a story."
