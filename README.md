@@ -1,6 +1,6 @@
 # cvalenzuelab.com
 
-Built with jekyll
+Built with jekyll.
 
 [cvalenzuelab](http://cvalenzuelab.com/)
 
