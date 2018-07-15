@@ -40,12 +40,12 @@ const BLOG_ITEMS = [
 const About = () => (
   <div className='container-fluid works' id="about">
     <div className="row">
-      <div className="col-xs-offset-2 col-xs-10">
-        <img src={banner} alt="banner" className="" />
+      <div className="col-xs-offset-2 col-xs-8">
+        <img src={banner} alt="banner" className="BannerAbout" />
       </div>
     </div>
     <div className='row'>
-      <div className="col-xs-7 col-xs-offset-3 AboutDescription">
+      <div className="col-xs-9 col-sm-7 col-xs-offset-1 col-sm-offset-3 AboutDescription">
         <p>
         Cristóbal Valenzuela is a technologist, artist and software developer interested in the intersection between machine learning and creative tools. He is a researcher at <a href="https://tisch.nyu.edu/itp">New York University ITP</a>, author of <a href="https://runwayml.com/">RunwayML</a>, Creative Resident at  <a href="https://www.paperspace.com/">Paperspace</a> and co-founder of <a href="https://latentstudio.com/">Latent Studio</a>, a creative studio specializing in machine learning and artificial intelligence. He also contributes to OSS and helps maintain <a href="https://ml5js.org/">ml5.js</a>. His work has been sponsored by Google and the Processing Foundation and his projects has been exhibited in Latin America and the US,including the Santiago Museum of Contemporary Art, GAM, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, Inter-American Development Bank, Stanford University and New York University.
         </p>
@@ -55,7 +55,7 @@ const About = () => (
       </div>
     </div>
     <div className='row'>
-      <div className="col-xs-10 col-xs-offset-2 Blog">
+      <div className="col-xs-10 col-xs-offset-1 col-sm-offset-2 Blog">
         <h1>Recent Blog Posts</h1>
         {
           BLOG_ITEMS.map(i => 
