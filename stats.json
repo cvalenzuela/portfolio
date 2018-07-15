@@ -1,0 +1,134 @@
+{
+  "assetsByChunkName": {
+    "path---birds": [
+      "path---birds-0295c1262f00cc91479f.js",
+      "path---birds-0295c1262f00cc91479f.js.map"
+    ],
+    "path---microsoft-design-expo": [
+      "path---microsoft-design-expo-b1c5a66b2e0dd3ef87a7.js",
+      "path---microsoft-design-expo-b1c5a66b2e0dd3ef87a7.js.map"
+    ],
+    "path---regression": [
+      "path---regression-63320eb0fc8c6437161c.js",
+      "path---regression-63320eb0fc8c6437161c.js.map"
+    ],
+    "path---turnbyturn": [
+      "path---turnbyturn-194acd0f4f0792628edd.js",
+      "path---turnbyturn-194acd0f4f0792628edd.js.map"
+    ],
+    "path---uncannyrd": [
+      "path---uncannyrd-e10d9232ee2f0b04e0f4.js",
+      "path---uncannyrd-e10d9232ee2f0b04e0f4.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-b9fe9b1bc2855ec53934.js",
+      "component---src-pages-index-js-b9fe9b1bc2855ec53934.js.map"
+    ],
+    "path---scenescoop": [
+      "path---scenescoop-93d73f5cd9b64cbb869d.js",
+      "path---scenescoop-93d73f5cd9b64cbb869d.js.map"
+    ],
+    "path---satellite-alphabet": [
+      "path---satellite-alphabet-b09d4e4256de59971ad5.js",
+      "path---satellite-alphabet-b09d4e4256de59971ad5.js.map"
+    ],
+    "path---": [
+      "path----0235c9ea719aaeb0693a.js",
+      "path----0235c9ea719aaeb0693a.js.map"
+    ],
+    "path---sidewalkd": [
+      "path---sidewalkd-947f5adfaf7f523df6fb.js",
+      "path---sidewalkd-947f5adfaf7f523df6fb.js.map"
+    ],
+    "path---mappa": [
+      "path---mappa-fbb72eabe3ede551d15a.js",
+      "path---mappa-fbb72eabe3ede551d15a.js.map"
+    ],
+    "path---moiremachine": [
+      "path---moiremachine-1be3aab5437f4285595b.js",
+      "path---moiremachine-1be3aab5437f4285595b.js.map"
+    ],
+    "path---ml-5": [
+      "path---ml-5-8d7cdcc79ebddaae5867.js",
+      "path---ml-5-8d7cdcc79ebddaae5867.js.map"
+    ],
+    "component---src-templates-project-js": [
+      "component---src-templates-project-js-eb6b2f9f4a3aca363123.js",
+      "component---src-templates-project-js-eb6b2f9f4a3aca363123.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-6bbf93c6d8e079c663da.js",
+      "component---src-layouts-index-js-6bbf93c6d8e079c663da.js.map"
+    ],
+    "path---missedopportunity": [
+      "path---missedopportunity-9b0a1238008d94476fe4.js",
+      "path---missedopportunity-9b0a1238008d94476fe4.js.map"
+    ],
+    "path---index": [
+      "path---index-53f9a2c078b4978123f8.js",
+      "path---index-53f9a2c078b4978123f8.js.map"
+    ],
+    "path---sequential-stories": [
+      "path---sequential-stories-accb41275299f06a2862.js",
+      "path---sequential-stories-accb41275299f06a2862.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-e700ca7cda10b28782e5.js",
+      "component---src-pages-404-js-e700ca7cda10b28782e5.js.map"
+    ],
+    "commons": [
+      "commons-afb5782224ac01f1fa03.js",
+      "commons-afb5782224ac01f1fa03.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---degreesofseparation": [
+      "path---degreesofseparation-44deb2cf30622d0f4b27.js",
+      "path---degreesofseparation-44deb2cf30622d0f4b27.js.map"
+    ],
+    "path---carbon": [
+      "path---carbon-6944dff1f53455a4e112.js",
+      "path---carbon-6944dff1f53455a4e112.js.map"
+    ],
+    "path---runway": [
+      "path---runway-8270bbc86c69c4fe2650.js",
+      "path---runway-8270bbc86c69c4fe2650.js.map"
+    ],
+    "path---word-2-sound": [
+      "path---word-2-sound-3345f7551988c77cdd9e.js",
+      "path---word-2-sound-3345f7551988c77cdd9e.js.map"
+    ],
+    "path---bodega": [
+      "path---bodega-db2778bb81ed1c598c4f.js",
+      "path---bodega-db2778bb81ed1c598c4f.js.map"
+    ],
+    "app": [
+      "app-acc6cb1ef573c8220894.js",
+      "build-js-styles.css",
+      "app-acc6cb1ef573c8220894.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---selected-stories": [
+      "path---selected-stories-ccfc35a50c7add3860a3.js",
+      "path---selected-stories-ccfc35a50c7add3860a3.js.map"
+    ],
+    "path---chiletrade": [
+      "path---chiletrade-ae72ff03ec7117bcc0b5.js",
+      "path---chiletrade-ae72ff03ec7117bcc0b5.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-265051af604c2049e17e.js",
+      "component---src-pages-about-js-265051af604c2049e17e.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

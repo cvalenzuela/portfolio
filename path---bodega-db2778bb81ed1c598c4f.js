@@ -1,0 +1,2 @@
+webpackJsonp([0xd1290de21fb8],{347:function(t,a){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/bodega",title:"Bodega"}}},pathContext:{}}}});
+//# sourceMappingURL=path---bodega-db2778bb81ed1c598c4f.js.map

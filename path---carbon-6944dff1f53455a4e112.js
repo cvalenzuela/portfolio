@@ -1,0 +1,2 @@
+webpackJsonp([0xb875b5b41828],{348:function(t,a){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/carbon",title:"Carbon"}}},pathContext:{}}}});
+//# sourceMappingURL=path---carbon-6944dff1f53455a4e112.js.map
