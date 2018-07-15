@@ -1,10 +1,8 @@
-.DS_Store
+# Project dependencies
+.cache
 node_modules
-.tmp
-.sass-cache
-_site
-jekyll/.sass-cache
-template/builds/development/images/
-template/builds/production/images/
-template/node_modules
-template/.sass-cache
+yarn-error.log
+
+# Build directory
+/public
+.DS_Store

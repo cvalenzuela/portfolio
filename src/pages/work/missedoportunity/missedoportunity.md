@@ -1,0 +1,13 @@
+---
+title: "Missed Oportunity"
+path: "/missedopportunity"
+date: "2018-01-30"
+url: "http://missedopportunity.3laab.com/"
+code: "https://github.com/cvalenzuela/Missed-Oportunity"
+more: ""
+year: "2016"
+category: "Data Storytelling"
+description: "This is a data driven storytelling about the U.S. Government Purchases and Forced Labor Abroad. Built for the Stern Center for Business and Human Rights"
+thumbnail: "thumbnail.jpg"
+type: "experiment"
+---

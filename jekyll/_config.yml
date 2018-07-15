@@ -1,0 +1,22 @@
+# Site settings
+title: Cristóbal Valenzuela
+email: cvalenzuela@nyu.edu
+description: "Cristóbal Valenzuela. Creative Techno"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://cvalenzuelab.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  cvalenzuela
+google_analytics: false
+
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: false
+# gems: [jekyll-paginate]
+# paginate: 4
+# paginate_path: '/works/page:num/'
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - _site
+  - template
+permalink: works/:title
