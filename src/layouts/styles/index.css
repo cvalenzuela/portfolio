@@ -26,12 +26,15 @@ h2,
 h3,
 h4,
 h5,
-h6,p {
+h6,p, tr, th {
     font-family: "Benton-Light", serif;
     margin: 0px;
     padding: 0px;
 }
 
+ul, li{
+    font-family: "Benton-Light", serif;
+}
 
 h1 {
     font-weight: 900;
@@ -94,6 +97,10 @@ h6 {
     border: 1px solid rgb(214, 214, 214);
 }
 
+code{
+    display: block;
+}
+
 h6:hover {
     background: black !important;
     color: white  !important;
@@ -128,7 +135,6 @@ header {
 li {
     font-size: 12px;
 }
-
 
 .Menu {
     padding-top: 5px;
@@ -311,7 +317,7 @@ footer img{
     border-bottom: 1px solid rgb(26, 212, 188);
 }
 
-.AboutDescription img{
+.SocialIcon{
     width: 16px;
 }
 
@@ -348,4 +354,12 @@ footer img{
 
 .BannerAbout{
     width: 100%;
+}
+
+.NotFound{
+    padding: 5rem 0px 4rem 0px;
+}
+
+.NotFound p{
+    margin: 20px 0px;
 }

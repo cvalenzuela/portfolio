@@ -4,6 +4,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 
   const projectTemplate = path.resolve(`src/templates/project.js`);
+  const workshopTemplate = path.resolve(`src/templates/workshop.js`);
 
   return graphql(`
     {
@@ -15,6 +16,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
           node {
             frontmatter {
               path
+              type
             }
           }
         }
@@ -26,9 +28,14 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+      let template = projectTemplate;
+      if (node.frontmatter.type === 'workshop') {
+        template = workshopTemplate;
+      }
+
       createPage({
         path: node.frontmatter.path,
-        component: projectTemplate,
+        component: template,
         context: {}, // additional data can be passed via context
       });
     });

@@ -1,13 +1,5 @@
 # cvalenzuelab.com
 
-Built with jekyll.
+Built with gatsby.
 
-[cvalenzuelab](http://cvalenzuelab.com/)
-
-
-```
-jekyll serve
-```
-```
-jekyll build
-```
+[cvalenzuelab](https://cvalenzuelab.com/)
