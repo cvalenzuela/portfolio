@@ -57,24 +57,24 @@
       "component---src-templates-project-js-eb6b2f9f4a3aca363123.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-6bbf93c6d8e079c663da.js",
-      "component---src-layouts-index-js-6bbf93c6d8e079c663da.js.map"
+      "component---src-layouts-index-js-18cb0b4d3fa753235bee.js",
+      "component---src-layouts-index-js-18cb0b4d3fa753235bee.js.map"
     ],
     "path---missedopportunity": [
       "path---missedopportunity-9b0a1238008d94476fe4.js",
       "path---missedopportunity-9b0a1238008d94476fe4.js.map"
     ],
     "path---index": [
-      "path---index-613bb3b01004cbeebabb.js",
-      "path---index-613bb3b01004cbeebabb.js.map"
+      "path---index-3a2f8502f858ece1f110.js",
+      "path---index-3a2f8502f858ece1f110.js.map"
     ],
     "path---sequential-stories": [
       "path---sequential-stories-accb41275299f06a2862.js",
       "path---sequential-stories-accb41275299f06a2862.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-e700ca7cda10b28782e5.js",
-      "component---src-pages-404-js-e700ca7cda10b28782e5.js.map"
+      "component---src-pages-404-js-782dde2fee2f2ad9b79f.js",
+      "component---src-pages-404-js-782dde2fee2f2ad9b79f.js.map"
     ],
     "commons": [
       "commons-afb5782224ac01f1fa03.js",
@@ -105,14 +105,18 @@
       "path---bodega-db2778bb81ed1c598c4f.js.map"
     ],
     "app": [
-      "app-e5c3f69086787a5ddfe1.js",
+      "app-09e74d270390073cdb97.js",
       "build-js-styles.css",
-      "app-e5c3f69086787a5ddfe1.js.map",
+      "app-09e74d270390073cdb97.js.map",
       "build-js-styles.css.map"
     ],
     "path---selected-stories": [
       "path---selected-stories-ccfc35a50c7add3860a3.js",
       "path---selected-stories-ccfc35a50c7add3860a3.js.map"
+    ],
+    "component---src-templates-workshop-js": [
+      "component---src-templates-workshop-js-0a15e4fd5c5bcd6c023c.js",
+      "component---src-templates-workshop-js-0a15e4fd5c5bcd6c023c.js.map"
     ],
     "path---chiletrade": [
       "path---chiletrade-ae72ff03ec7117bcc0b5.js",
@@ -122,9 +126,13 @@
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---workshops-aa": [
+      "path---workshops-aa-9b5efa5ad8502a47f822.js",
+      "path---workshops-aa-9b5efa5ad8502a47f822.js.map"
+    ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-06a3fdaadd4c6b88ed89.js",
-      "component---src-pages-about-js-06a3fdaadd4c6b88ed89.js.map"
+      "component---src-pages-about-js-638f400ac9b672642ece.js",
+      "component---src-pages-about-js-638f400ac9b672642ece.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",

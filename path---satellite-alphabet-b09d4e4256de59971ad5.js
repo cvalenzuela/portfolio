@@ -1,2 +1,2 @@
-webpackJsonp([52937255369591],{360:function(t,a){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/satellite_alphabet",title:"Satellite Alphabet"}}},pathContext:{}}}});
+webpackJsonp([52937255369591],{365:function(t,a){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/satellite_alphabet",title:"Satellite Alphabet"}}},pathContext:{}}}});
 //# sourceMappingURL=path---satellite-alphabet-b09d4e4256de59971ad5.js.map
