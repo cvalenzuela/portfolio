@@ -20,21 +20,20 @@ type: "workshop"
 | 10:45 - 11:30 | General Overview of AI |
 | 11:30 - 12:45	| Introduction to ML/DL |
 | 12:45 - 13:45	| Lunch Break |
-| 13:45 - 15:00	| Tools and Setting Up |
-| 15:00 - 16:00	| Exercise: Interactive ML with Runway |
-| 16:00 - 17:00	| Exercise: Creating a custom model |
-| 17:00 - 17:30	| Exercise: ML in the browser |
-| 17:30 - 18:00	| Group Excercise and Project Description |
+| 13:45 - 16:00	| Tools and Setting Up |
+| 16:00 - 17:00	| Javascript Basics |
+| 17:00 - 17:30	| Exercise: Simple Classification |
+| 17:30 - 18:00	| Group Exercise and Project Description |
 
 ##### Day 2
 
 | Time          | Description     |
 | ------------- |:-------------:|
 | 10:00 - 10:45 |	ML Recap/Questions |
-| 10:45 - 11:30 |	Data Collection and Models |
-| 11:30 - 12:45 |	Style Transfer Training |
+| 10:45 - 11:30 |	Python Basics |
+| 11:30 - 12:45 |	Fashion Mnist |
 | 12:45 - 13:45 |	Lunch Break |
-| 13:45 - 15:00 |	Training an LSTM Network |
+| 13:45 - 15:00 |	Training an LSTM Network or Style Transfer Training |
 | 15:00 - 16:00 |	Group Work |
 | 16:00 - 17:00 |	Group Work |
 | 17:00 - 17:30 |	Group Work |
@@ -43,15 +42,20 @@ type: "workshop"
 #### Materials
 
 - Workshop code and examples: [github.com/cvalenzuela/AA_Autodesk](https://github.com/cvalenzuela/AA_Autodesk)
-- Runway Download Address: `aaschool@runwayml.com`
 - Paperspace $15 Code: `AASCHOOL15`
+- Runway email: `aaschool@runwayml.com`
 
 ##### Requirements
 
 1. Please install and download
-[VSCode](), [Brackets](http://brackets.io/), [Atom](https://atom.io/) or any code editor
-2. Download [Docker](https://www.docker.com/community-edition). (You will need to sign in)
-3. Download [RunwayML](https://runwayml.com/beta/download/). Use the download email address provided.
+[VSCode](https://code.visualstudio.com/), [Brackets](http://brackets.io/), [Atom](https://atom.io/) or any code editor you want.
+2. Install [Node.js](https://nodejs.org/en/download/)
+3. If using Windows, be sure you have Python installed. [Download it here](https://www.python.org/)
+
+###### Optional:
+
+1. If you have a Mac or Windows Pro, download [Docker](https://www.docker.com/community-edition). (You will need to sign in)
+2. If you download Docker, please install [RunwayML](https://runwayml.com/beta/download/). Use this email to download the app: `aaschool@runwayml.com`
 
 #### Tools and Frameworks
 
@@ -64,19 +68,21 @@ type: "workshop"
 - [Jupyter Lab/Notebooks](https://github.com/jupyterlab/jupyterlab)
 
 ##### Graphical Interfaces
-- [RunwayML](https://runwayml.com/)
+- [Runway](https://runwayml.com/)
 - [Wekinator](http://www.wekinator.org/)
 
-##### Other
- - [cmder](http://cmder.net/): console emulators on Windows. 
-
 ##### Cloud Computing
- - [Paperspace](https://www.paperspace.com/):  
+ - [Paperspace](https://www.paperspace.com/)
 
 ##### Visual
  - [Processing](https://processing.org/)
  - [p5.js](https://p5js.org/)
  - [openFrameworks](https://openframeworks.cc/)
+
+##### Other
+ - [cmder](http://cmder.net/): console emulators on Windows. 
+ - [Rhino.Python](https://developer.rhino3d.com/guides/rhinopython/what-is-rhinopython/)
+ - [Firefly](https://rhino.github.io/components/firefly/oSCListener.html): OSC for Grasshopper  
 
 #### Additional Learning Resources
 
