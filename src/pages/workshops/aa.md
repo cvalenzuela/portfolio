@@ -17,7 +17,7 @@ type: "workshop"
 | Time          | Description     |
 | ------------- |:-------------:|
 | 10:00 - 10:45 | Introductions |
-| 10:45 - 11:30 | General Overview of AI |
+| 10:45 - 11:30 | Overview of AI and  |
 | 11:30 - 12:45	| Introduction to ML/DL |
 | 12:45 - 13:45	| Lunch Break |
 | 13:45 - 16:00	| Tools and Setting Up |
@@ -36,8 +36,7 @@ type: "workshop"
 | 13:45 - 15:00 |	Training an LSTM Network or Style Transfer Training |
 | 15:00 - 16:00 |	Group Work |
 | 16:00 - 17:00 |	Group Work |
-| 17:00 - 17:30 |	Group Work |
-| 17:30 - 18:00 |	Project Presentation |
+| 17:00 - 18:00 |	Project Presentation |
 
 #### Materials
 
@@ -52,10 +51,10 @@ type: "workshop"
 2. Install [Node.js](https://nodejs.org/en/download/)
 3. If using Windows, be sure you have Python installed. [Download it here](https://www.python.org/)
 
-###### Optional:
+##### Optional:
 
 1. If you have a Mac or Windows Pro, download [Docker](https://www.docker.com/community-edition). (You will need to sign in)
-2. If you download Docker, please install [RunwayML](https://runwayml.com/beta/download/). Use this email to download the app: `aaschool@runwayml.com`
+2. If you download Docker, install [Runway](https://runwayml.com/beta/download/). Use this email to download the app: `aaschool@runwayml.com`
 
 #### Tools and Frameworks
 
@@ -88,7 +87,7 @@ type: "workshop"
 
 - [ml4a](https://ml4a.github.io/)
 - [Runwayml Tutorials](https://runwayml.com/tutorials/)
-- [Runwayml Slack Channel]()
+- [Runwayml Slack Channel](https://runwayml.slack.com)
 - [Tensorflow for poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/)
 - [Tensorflow Hub](https://github.com/tensorflow/hub)
 - [Tensorflow Tutorials](https://www.tensorflow.org/tutorials/)
