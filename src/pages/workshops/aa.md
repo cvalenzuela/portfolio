@@ -38,6 +38,10 @@ type: "workshop"
 | 16:00 - 17:00 |	Group Work |
 | 17:00 - 18:00 |	Project Presentation |
 
+#### Aren.na Material collection
+
+- [Machine Learning](https://www.are.na/pato-nv/machinelearning-02)
+
 #### Materials
 
 - Workshop code and examples: [github.com/cvalenzuela/AA_Autodesk](https://github.com/cvalenzuela/AA_Autodesk)
