@@ -94,6 +94,11 @@ type: "workshop"
 - [Open Images](https://storage.googleapis.com/openimages/web/index.html)
 - [Seedbank](https://tools.google.com/seedbank/)
 
+##### Blog posts
+
+- [Style Transfer Training](https://blog.paperspace.com/creating-your-own-style-transfer-mirror/)
+- [LSTM Training](https://blog.paperspace.com/training-an-lstm-and-using-the-model-in-ml5-js/)
+
 #### About Cristobal Valenzuela
 
 Cristóbal Valenzuela is a technologist, artist and software developer interested in the intersection between machine learning and creative tools. He is a researcher at [New York University ITP](https://tisch.nyu.edu/itp) author of [RunwayML](https://runwayml.com/), Creative Resident at [Paperspace](https://www.paperspace.com/) and co-founder of [Latent Studio](https://latentstudio.com/), a creative studio specializing in machine learning and artificial intelligence. He also contributes to OSS and helps maintain <a href="https://ml5js.org/"> ml5.js </a>. His work has been sponsored by Google
