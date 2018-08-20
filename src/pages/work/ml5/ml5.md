@@ -1,7 +1,7 @@
 ---
 title: "ml5.js"
 path: "/ml5"
-date: '2018-01-03'
+date: '2018-01-04'
 url: "https://ml5js.org/"
 code: "https://github.com/ml5js"
 more: ""

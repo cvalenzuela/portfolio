@@ -1,7 +1,7 @@
 ---
 title: "Selected Stories"
 path: "/selected_stories"
-date: '2018-01-05'
+date: '2018-01-06'
 url: "https://cvalenzuela.github.io/Selected_Stories/"
 code: "https://github.com/cvalenzuela/Selected_Stories"
 more: ""

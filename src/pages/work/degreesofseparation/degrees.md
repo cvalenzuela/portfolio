@@ -2,7 +2,7 @@
 title: "Degrees of Separation"
 path: "/degreesofseparation"
 date: "2018-01-26"
-url: "http://degreesofseparation.cvalenzuelab.com"
+url: "https://cvalenzuela.github.io/Degrees-of-Separation/"
 code: ""
 more: ""
 year: "2016"

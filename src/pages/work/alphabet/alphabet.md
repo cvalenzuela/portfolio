@@ -2,7 +2,7 @@
 title: "Satellite Alphabet"
 path: "/satellite_alphabet"
 date: "2018-01-27"
-url: "http://satellite-alphabet.cvalenzuelab.com/"
+url: "https://cvalenzuela.github.io/satellite-alphabet/"
 code: "https://github.com/cvalenzuela/satellite-alphabet"
 more: ""
 year: "2016"
