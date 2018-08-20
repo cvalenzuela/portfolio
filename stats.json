@@ -60,13 +60,9 @@
       "component---src-layouts-index-js-18cb0b4d3fa753235bee.js",
       "component---src-layouts-index-js-18cb0b4d3fa753235bee.js.map"
     ],
-    "path---missedopportunity": [
-      "path---missedopportunity-9b0a1238008d94476fe4.js",
-      "path---missedopportunity-9b0a1238008d94476fe4.js.map"
-    ],
     "path---index": [
-      "path---index-6ba08d0560436073382e.js",
-      "path---index-6ba08d0560436073382e.js.map"
+      "path---index-1b626d2e309a7b867c1a.js",
+      "path---index-1b626d2e309a7b867c1a.js.map"
     ],
     "path---sequential-stories": [
       "path---sequential-stories-accb41275299f06a2862.js",
@@ -109,9 +105,9 @@
       "path---bodega-db2778bb81ed1c598c4f.js.map"
     ],
     "app": [
-      "app-22a9ee675066831cb5fc.js",
+      "app-d70ca885c20571dad687.js",
       "build-js-styles.css",
-      "app-22a9ee675066831cb5fc.js.map",
+      "app-d70ca885c20571dad687.js.map",
       "build-js-styles.css.map"
     ],
     "path---selected-stories": [

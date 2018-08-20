@@ -1,2 +1,2 @@
-webpackJsonp([67924824634303],{359:function(t,a){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/mappa",title:"Mappa.js"}}},pathContext:{}}}});
+webpackJsonp([67924824634303],{358:function(t,a){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/mappa",title:"Mappa.js"}}},pathContext:{}}}});
 //# sourceMappingURL=path---mappa-fbb72eabe3ede551d15a.js.map

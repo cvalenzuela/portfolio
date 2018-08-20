@@ -1,2 +1,2 @@
-webpackJsonp([0xd8d30a002c2e],{368:function(t,e){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/selected_stories",title:"Selected Stories"}}},pathContext:{}}}});
+webpackJsonp([0xd8d30a002c2e],{366:function(t,e){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/selected_stories",title:"Selected Stories"}}},pathContext:{}}}});
 //# sourceMappingURL=path---selected-stories-ccfc35a50c7add3860a3.js.map
