@@ -65,8 +65,8 @@
       "path---missedopportunity-9b0a1238008d94476fe4.js.map"
     ],
     "path---index": [
-      "path---index-88ca5fb5732f9d00d37f.js",
-      "path---index-88ca5fb5732f9d00d37f.js.map"
+      "path---index-6ba08d0560436073382e.js",
+      "path---index-6ba08d0560436073382e.js.map"
     ],
     "path---sequential-stories": [
       "path---sequential-stories-accb41275299f06a2862.js",
@@ -75,6 +75,10 @@
     "component---src-pages-404-js": [
       "component---src-pages-404-js-782dde2fee2f2ad9b79f.js",
       "component---src-pages-404-js-782dde2fee2f2ad9b79f.js.map"
+    ],
+    "path---t-2-i": [
+      "path---t-2-i-e2abe888f5792081a8a4.js",
+      "path---t-2-i-e2abe888f5792081a8a4.js.map"
     ],
     "commons": [
       "commons-afb5782224ac01f1fa03.js",
@@ -105,9 +109,9 @@
       "path---bodega-db2778bb81ed1c598c4f.js.map"
     ],
     "app": [
-      "app-09e74d270390073cdb97.js",
+      "app-22a9ee675066831cb5fc.js",
       "build-js-styles.css",
-      "app-09e74d270390073cdb97.js.map",
+      "app-22a9ee675066831cb5fc.js.map",
       "build-js-styles.css.map"
     ],
     "path---selected-stories": [
