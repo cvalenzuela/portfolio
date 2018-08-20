@@ -1,7 +1,7 @@
 ---
 title: "Uncanny Rd"
 path: "/uncannyrd"
-date: '2018-01-02'
+date: '2018-01-03'
 url: ""
 code: "https://github.com/agermanidis/UncannyRd"
 more: ""

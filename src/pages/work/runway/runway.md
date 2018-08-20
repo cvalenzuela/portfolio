@@ -7,8 +7,7 @@ code: ""
 more: ""
 year: "2018"
 category: 'Machine Learning Tool'
-description: "Runway is a desktop application for Mac, Windows, and Linux that enables users to easily run, build and train
-machine learning models using a simple visual interface with or without writing code."
+description: "Artificial Intelligence for Augmented Creativity. Runway is a toolkit that adds artificial intelligence capabilities to design and creative platforms."
 thumbnail: "thumbnail.jpg"
 type: "main"
 ---
