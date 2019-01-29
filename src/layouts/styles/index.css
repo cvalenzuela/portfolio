@@ -363,3 +363,8 @@ footer img{
 .NotFound p{
     margin: 20px 0px;
 }
+
+.LinkInHeader{
+    border-bottom: 1px solid grey;
+    /* font-weight: bold; */
+}

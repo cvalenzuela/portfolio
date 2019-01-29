@@ -19,22 +19,6 @@ const BLOG_ITEMS = [
     description: 'A short story in two parts.',
     link: 'https://medium.com/@cvalenzuelab/machine-learning-en-plein-air-building-accessib' +
         'le-tools-for-artists-87bfc7f99f6b'
-  }, {
-    title: 'Training an LSTM network and sampling the resulting model in ml5.js',
-    author: 'Cristobal Valenzuela',
-    authorImg: '',
-    img: lstm,
-    description: 'Learn how to train a language model using a LSTM neural network with your own cu' +
-        'stom dataset and use the resulting model inside ml5.js,',
-    link: 'https://blog.paperspace.com/training-an-lstm-and-using-the-model-in-ml5-js/'
-  }, {
-    title: 'Creating your own style transfer mirror with Gradient° and ml5.js',
-    author: 'Cristobal Valenzuela',
-    authorImg: '',
-    img: bororo,
-    description: "Train a style transfer network with Paperspace's Gradient° and use the model in " +
-        "ml5.js to create an interactive style transfer mirror.",
-    link: 'https://blog.paperspace.com/creating-your-own-style-transfer-mirror/'
   }
 ]
 
@@ -49,22 +33,12 @@ const About = () => (
       <div
         className="col-xs-9 col-sm-7 col-xs-offset-1 col-sm-offset-3 AboutDescription">
         <p>
-          Cristóbal Valenzuela is a technologist, artist and software developer interested in the intersection
-          between machine learning and creative tools. He is a researcher at
-          <a href="https://tisch.nyu.edu/itp"> New York University ITP</a>, author of
-          <a href="https://runwayml.com/"> RunwayML </a>, Creative Resident at
-          <a href="https://www.paperspace.com/"> Paperspace </a>
-          and co-founder of
+          Cristóbal Valenzuela is a technologist, artist and software developer interested in the intersection between artificial intelligence and creative tools. He is co-founder of <a href="https://runwayapp.ai/"> Runway </a> and researcher at <a href="https://tisch.nyu.edu/itp"> New York University ITP</a>. Previously, he co-founded 
           <a href="https://latentstudio.com/"> Latent Studio </a>, a creative studio
           specializing in machine learning and artificial intelligence. He also
-          contributes to OSS and helps maintain
-          <a href="https://ml5js.org/"> ml5.js</a>. His work has been sponsored by Google
-          and the Processing Foundation and his projects has been exhibited in Latin
-          America and the US, including the Santiago Museum of Contemporary Art, GAM,
-          Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave,
-          Inter-American Development Bank, Stanford University and New York University.
+          contributes to OSS and helps maintain <a href="https://ml5js.org/"> ml5.js</a>. His work has been sponsored by Google and the Processing Foundation and his projects has been exhibited in Latin America and the US, including NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University and New York University.
         </p>
-        <p>cris [at] runwayml.com</p>
+        <p>cris [at] runwayapp.ai</p>
         <p>
           <a href="https://twitter.com/c_valenzuelab">@c_valenzuelab</a>
         </p>

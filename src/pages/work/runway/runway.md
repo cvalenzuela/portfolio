@@ -7,7 +7,7 @@ code: ""
 more: ""
 year: "2018"
 category: 'Machine Learning Tool'
-description: "Artificial Intelligence for Augmented Creativity. Runway is a toolkit that adds artificial intelligence capabilities to design and creative platforms."
+description: "Runway is a toolkit that allows creators of all kinds to use artificial intelligence in an intuitive way."
 thumbnail: "thumbnail.jpg"
 type: "main"
 ---
