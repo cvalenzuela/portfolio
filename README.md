@@ -1,5 +1,5 @@
 # cvalenzuelab.com
 
-Built with gatsby.
+Built with Gatsby.
 
 [cvalenzuelab](https://cvalenzuelab.com/)
