@@ -38,7 +38,7 @@ const About = () => (
           specializing in machine learning and artificial intelligence. He also
           contributes to OSS and helps maintain <a href="https://ml5js.org/"> ml5.js</a>. His work has been sponsored by Google and the Processing Foundation and his projects has been exhibited in Latin America and the US, including NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University and New York University.
         </p>
-        <p>cris [at] runwayapp.ai</p>
+        <p>cris [at] runwayml.com</p>
         <p>
           <a href="https://twitter.com/c_valenzuelab">@c_valenzuelab</a>
         </p>

@@ -13,7 +13,7 @@ const Footer = ({siteTitle}) => (
         <div className="col-xs-7 Contact">
           <h5>Contact</h5>
           <p>Feel free to contact me at:</p>
-          <p>cris [at] runwayapp.ai</p>
+          <p>cris [at] runwayml.com</p>
           <p><a href="https://twitter.com/c_valenzuelab">@c_valenzuelab</a></p>
         </div>
       </div>
