@@ -24,26 +24,27 @@ const BLOG_ITEMS = [
 
 const About = () => (
   <div className='container-fluid works' id="about">
-    <div className="row">
+    {/* <div className="row">
       <div className="col-xs-offset-2 col-xs-8">
         <img src={banner} alt="banner" className="BannerAbout"/>
       </div>
-    </div>
+    </div> */}
     <div className='row'>
       <div
-        className="col-xs-9 col-sm-7 col-xs-offset-1 col-sm-offset-3 AboutDescription">
+        className="col-xs-9 col-sm-7 col-xs-offset-1 col-sm-offset-2 AboutDescription">
         <p>
-          Cristóbal Valenzuela is a technologist, artist and software developer interested in the intersection between artificial intelligence and creative tools. He is co-founder of <a href="https://runwayapp.ai/"> Runway </a> and researcher at <a href="https://tisch.nyu.edu/itp"> New York University ITP</a>. Previously, he co-founded 
-          <a href="https://latentstudio.com/"> Latent Studio </a>, a creative studio
-          specializing in machine learning and artificial intelligence. He also
-          contributes to OSS and helps maintain <a href="https://ml5js.org/"> ml5.js</a>. His work has been sponsored by Google and the Processing Foundation and his projects has been exhibited in Latin America and the US, including NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University and New York University.
+          Cristóbal Valenzuela is a Chilean-born technologist and software developer. He is a co-founder and CEO of <a href="https://runwayml.com/"> RunwayML.</a>
+          <br/> Previously, he was researcher at <a href="https://tisch.nyu.edu/itp"> New York University</a> working on the development of <a href="https://ml5js.org/"> ml5.js.</a>
+
+          <br/><br/>
+          His projects has been exhibited in Latin America, Europe and the US. Including: NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University, and New York University.
         </p>
         <p>cris [at] runwayml.com</p>
         <p>
-          <a href="https://twitter.com/c_valenzuelab">@c_valenzuelab</a>
+          <a href="https://twitter.com/c_valenzuelab"> @c_valenzuelab</a>
         </p>
         <p><img src={github} alt="github" className="SocialIcon"/>
-          <a href="https://github.com/cvalenzuela">cvalenzuela</a>
+          <a href="https://github.com/cvalenzuela"> cvalenzuela</a>
         </p>
       </div>
     </div>

@@ -27,9 +27,9 @@ const Header = ({siteTitle}) => (
     <div className="container">
       <div className="row">
         <div className="col-xs-10 col-xs-offset-1">
-          <h2>Building creative tools with artificial intelligence.</h2>
+          <h2>Building creative tools with machine intelligence.</h2>
           <br/>
-          <h2>Co-Founder at <a href="https://runwayml.com" className="LinkInHeader">Runway</a>.</h2>
+          <h2>Co-Founder at <a href="https://runwayml.com" className="LinkInHeader">RunwayML</a>.</h2>
         </div>
       </div>
     </div>
