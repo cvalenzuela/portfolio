@@ -33,7 +33,7 @@ const About = () => (
       <div
         className="col-xs-9 col-sm-7 col-xs-offset-1 col-sm-offset-2 AboutDescription">
         <p>
-          Cristóbal Valenzuela is a Chilean-born technologist and software developer. He is a co-founder and CEO of <a href="https://runwayml.com/"> RunwayML.</a>
+          Cristóbal Valenzuela is a Chilean-born technologist and software developer. He is a co-founder of <a href="https://runwayml.com/"> RunwayML.</a>
           <br/> Previously, he was researcher at <a href="https://tisch.nyu.edu/itp"> New York University</a> working on the development of <a href="https://ml5js.org/"> ml5.js.</a>
 
           <br/><br/>
