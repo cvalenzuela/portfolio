@@ -37,7 +37,7 @@ const About = () => (
           <br/> Previously, he was researcher at <a href="https://tisch.nyu.edu/itp"> New York University</a> working on the development of <a href="https://ml5js.org/"> ml5.js.</a>
 
           <br/><br/>
-          His projects has been exhibited in Latin America, Europe and the US. Including: NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University, and New York University.
+          His projects has been exhibited in Latin America, Europe, and the US. Including: NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University, and New York University.
         </p>
         <p>cris [at] runwayml.com</p>
         <p>
