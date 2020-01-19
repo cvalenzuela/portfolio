@@ -1,2 +1,0 @@
-webpackJsonp([0x791fa28e113b],{361:function(t,a){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/missedopportunity",title:"Missed Oportunity"}}},pathContext:{}}}});
-//# sourceMappingURL=path---missedopportunity-9b0a1238008d94476fe4.js.map
