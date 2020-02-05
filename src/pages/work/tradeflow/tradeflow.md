@@ -2,7 +2,7 @@
 title: "Trade Flow"
 path: "/mappa"
 date: "2018-01-23"
-url: "http://tradeflow.3laab.com/"
+url: "https://cvalenzuela.github.io/Trade-Flow/"
 code: "https://github.com/cvalenzuela/Trade-Flow" 
 more: ""
 year: "2016"
