@@ -1,14 +1,11 @@
-import React from 'react'
-import Link from 'gatsby-link'
-
 import BlogCard from './../components/blogCard';
-
+import Link from 'gatsby-link'
+import React from 'react'
 import banner from './../pages/work/chiletrade/banner.jpg';
-import github from './../components/images/github.png';
-
-import monet from './images/monet.jpg';
-import lstm from './images/lstm.jpg';
 import bororo from './images/bororo.jpg';
+import github from './../components/images/github.png';
+import lstm from './images/lstm.jpg';
+import monet from './images/monet.jpg';
 
 const BLOG_ITEMS = [
   {
@@ -34,10 +31,10 @@ const About = () => (
         className="col-xs-9 col-sm-7 col-xs-offset-1 col-sm-offset-2 AboutDescription">
         <p>
           Cristóbal Valenzuela is a Chilean-born technologist and software developer. He is a co-founder of <a href="https://runwayml.com/"> RunwayML.</a>
-          <br/> Previously, he was researcher at <a href="https://tisch.nyu.edu/itp"> New York University</a> working on the development of <a href="https://ml5js.org/"> ml5.js.</a>
+          <br/> Previously, he was a researcher at <a href="https://tisch.nyu.edu/itp"> New York University</a> mainly working on the development of <a href="https://ml5js.org/"> ml5.js.</a>
 
           <br/><br/>
-          His projects has been exhibited in Latin America, Europe, and the US. Including: NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University, and New York University.
+          His projects have been exhibited in Latin America, Europe, and the US. Including NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University, and New York University.
         </p>
         <p>cris [at] runwayml.com</p>
         <p>
