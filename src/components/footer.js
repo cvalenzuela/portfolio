@@ -1,6 +1,5 @@
-import React from 'react'
 import Link from 'gatsby-link'
-
+import React from 'react'
 import voyYvuevlo from './images/voyyvuelvo.png';
 
 const Footer = ({siteTitle}) => (
@@ -10,10 +9,7 @@ const Footer = ({siteTitle}) => (
         <div className="col-xs-3">
           <img src={voyYvuevlo} alt="voy y vuelvo"/>
         </div>
-        <div className="col-xs-7 Contact">
-          <h5>Contact</h5>
-          <p>Feel free to contact me at:</p>
-          <p>cris [at] runwayml.com</p>
+        <div className="col-xs-7 Contact">          
           <p><a href="https://twitter.com/c_valenzuelab">@c_valenzuelab</a></p>
         </div>
       </div>

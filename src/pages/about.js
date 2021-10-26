@@ -31,10 +31,10 @@ const About = () => (
         className="col-xs-9 col-sm-7 col-xs-offset-1 col-sm-offset-2 AboutDescription">
         <p>
           Cristóbal Valenzuela is a Chilean-born technologist and software developer. He is the CEO and Co-Founder of <a href="https://runwayml.com/"> Runway.</a>
-          <br/> Previously, he was a researcher at <a href="https://tisch.nyu.edu/itp"> New York University</a> working on the development of <a href="https://ml5js.org/"> ml5.js.</a>
+          <br/> Previously, he worked as a researcher at <a href="https://tisch.nyu.edu/itp"> New York University</a>.
 
           <br/><br/>
-          His projects have been exhibited in Latin America, Europe, and the US. Including NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University, and New York University.
+          His projects have been exhibited in Latin America, Europe, and the US. Including NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford, and New York University.
         </p>
         <p>cris [at] runwayml.com</p>
         <p>
@@ -45,7 +45,7 @@ const About = () => (
         </p>
       </div>
     </div>
-    <div className='row'>
+    {/* <div className='row'>
       <div className="col-xs-10 col-xs-offset-1 col-sm-offset-2 Blog">
         <h1>Recent Blog Posts</h1>
         {BLOG_ITEMS.map(i => <BlogCard
@@ -58,7 +58,7 @@ const About = () => (
           link={i.link}/>)
 }
       </div>
-    </div>
+    </div> */}
   </div>
 )
 

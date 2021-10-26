@@ -7,7 +7,7 @@ code: ""
 more: ""
 year: "2018"
 category: 'Machine Learning Tool'
-description: "Runway is a toolkit that allows creators of all kinds to use artificial intelligence in an intuitive way."
+description: "Professional video editing powered by machine learning — all on the web."
 thumbnail: "thumbnail.jpg"
 type: "main"
 ---
