@@ -30,8 +30,8 @@ const About = () => (
       <div
         className="col-xs-9 col-sm-7 col-xs-offset-1 col-sm-offset-2 AboutDescription">
         <p>
-          Cristóbal Valenzuela is a Chilean-born technologist and software developer. He is a co-founder of <a href="https://runwayml.com/"> RunwayML.</a>
-          <br/> Previously, he was a researcher at <a href="https://tisch.nyu.edu/itp"> New York University</a> mainly working on the development of <a href="https://ml5js.org/"> ml5.js.</a>
+          Cristóbal Valenzuela is a Chilean-born technologist and software developer. He is the CEO and Co-Founder of <a href="https://runwayml.com/"> Runway.</a>
+          <br/> Previously, he was a researcher at <a href="https://tisch.nyu.edu/itp"> New York University</a> working on the development of <a href="https://ml5js.org/"> ml5.js.</a>
 
           <br/><br/>
           His projects have been exhibited in Latin America, Europe, and the US. Including NeurIPS, Santiago Museum of Contemporary Art, ARS Electronica, GAM, ACADIA, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, DOCLAB, Inter-American Development Bank, Stanford University, and New York University.
