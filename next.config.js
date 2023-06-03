@@ -1,6 +1,6 @@
 const nextConfig = {
   output: 'export',
-  basePath: '/portfolio',
+  basePath: '/',
   experimental: {
     appDir: true,
   },
