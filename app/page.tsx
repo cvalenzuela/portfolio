@@ -11,7 +11,7 @@ export default function Home() {
 
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
          <p className={`m-0 text-sm opacity-50 sm:pb-5`}>
-          I'm a developer and tool maker living in Brooklyn, NY. I'm the co-founder and CEO of <a href='https://runwayml.com'>Runway</a>.
+          I'm a developer making AI tools and living in Brooklyn, NY. I'm the co-founder and CEO of <a href='https://runwayml.com'>Runway</a>.
         </p>
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
@@ -28,7 +28,7 @@ export default function Home() {
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
         <p className={`m-0 text-sm opacity-50 sm:pb-5`}>
-         c [at] runwayml.com - <a href="">Twitter</a> - <a href=''>Linkedin</a>
+         c [at] runwayml.com - <a href="https://twitter.com/c_valenzuelab">Twitter</a> - <a href="https://www.linkedin.com/in/cvalenzuelab/">Linkedin</a>
         </p>
         
       </div>
@@ -48,25 +48,24 @@ export default function Home() {
           <li>2017 / <a href="https://github.com/cvalenzuela/scenescoop">Scenescoop.</a> A tool to find semantically simiar scenes between two videos.</li>
           <li>2017 / <a href="https://cvalenzuela.github.io/Selected_Stories/">Selected Stories.</a> A generative realtime text editor that uses a LSTM network in the browser to write with you. </li>
           <li>2016 / <a href="https://github.com/cvalenzuela/sequential-stories">Sequential Stories.</a> An iOS app that uses a Text-to-Image model to create fictional stories using only image captions.</li>
-          <li>2016 / <a href="https://cvalenzuela.github.io/interactive-music/">Word2Beat.</a>A tool that maps word embeddings or a word space vector to sound beats</li>
-          <li>2015 / <a href="https://cvalenzuela.github.io/interactive-music/">Word2Beat.</a>A tool that maps word embeddings or a word space vector to sound beats</li>
-          <li>2012 / <a href="https://cvalenzuelab.com/static/02-b9bcfab103f8cb33becd3afcf9a5c15b-e1389.png">Regression.</a>An interactive installation that uses a typewriter to create text based generative videos, T2V.</li>
+          <li>2016 / <a href="https://cvalenzuela.github.io/interactive-music/">Word2Beat.</a> A tool that maps word embeddings or a word space vector to sound beats</li>
+          <li>2015 / <a href="https://cvalenzuela.github.io/interactive-music/">Word2Beat.</a> A tool that maps word embeddings or a word space vector to sound beats</li>
+          <li>2012 / <a href="/regresion01.png">Regression.</a> An interactive installation that uses a typewriter to create text based generative videos, T2V.</li>
         </ul>
       </div>
 
       <div className="bottom-0 pb-3 pt-20 z-10 w-full max-w-5xl text-sm lg:flex">
-  
-        <Image 
+
+        <p className={`pt-4 m-0 text-xs opacity-30`}>
+          © 2023 Cristobal Valenzuela.
+        </p>
+        <img 
           src="/voyyvuelvo.png"
           width={120}
           height={20}
           alt='voy & vuelvo'
           className='voyyvuelvo'
         />
-
-      <p className={`pt-4 m-0 text-sm opacity-30`}>
-          © 2023 Cristobal Valenzuela.
-        </p>
       </div>
       
     </main>
