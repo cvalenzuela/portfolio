@@ -2,39 +2,39 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24 sm:p-16">
+    <main className="flex min-h-screen flex-col items-center justify-between p-24 xs:p-10 sm:p-16">
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
         <p className="flex w-full justify-center pb-8 backdrop-blur-2xl lg:static lg:w-auto">
-          Cristóbal Valenzuela
+          Cristóbal Valenzuela Barrera
         </p>
       </div>
 
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
-         <p className={`m-0 text-sm opacity-50 sm:pb-5`}>
+         <p className={`m-0 text-sm opacity-50 xs:pb-6 sm:pb-5`}>
           I'm a developer making AI tools and living in Brooklyn, NY. I'm the co-founder and CEO of <a href='https://runwayml.com'>Runway</a>.
         </p>
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
-        <p className={`m-0 text-sm opacity-50 sm:pb-5`}>
+        <p className={`m-0 text-sm opacity-50 xs:pb-6 sm:pb-5`}>
           I was a researcher at ITP NYU Tisch School of the Arts. I've worked on <a href="https://github.com/cvalenzuela">open-source projects</a>, <a href="https://arxiv.org/abs/2112.09726">AI research</a>, and also <a href="https://ars.electronica.art/aeblog/en/2018/08/29/chile-group-show/">made some art</a>. 
           I used to teach digital fabrication, statistics, and econometrics. I've also made short films, designed boardgames, and worked as a business consultant. 
           I was born and raised in Chile.
         </p>
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
-        <p className={`m-0 text-sm opacity-50 sm:pb-5`}>
+        <p className={`m-0 text-sm opacity-50 xs:pb-6 sm:pb-5`}>
           I'm primarily interested in building <a href="https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html"> tools to augment human creativity.</a> If you are also interested in that, join us. <a href='https://runwayml.com/careers'>We are hiring.</a>
         </p>
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
-        <p className={`m-0 text-sm opacity-50 sm:pb-5`}>
+        <p className={`m-0 text-sm opacity-50 xs:pb-6 sm:pb-5`}>
          c [at] runwayml.com - <a href="https://twitter.com/c_valenzuelab">Twitter</a> - <a href="https://www.linkedin.com/in/cvalenzuelab/">Linkedin</a>
         </p>
         
       </div>
       
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
-        <p className={`m-0 text-sm sm:pb-5`}>
+        <p className={`m-0 text-sm xs:pb-6 sm:pb-5`}>
           Recent projects
         </p>
       </div>
