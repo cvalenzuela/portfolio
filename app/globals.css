@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 0, 0, 0;
+    --background-start-rgb: 255, 255, 255;
+    --background-end-rgb: 220, 220, 220;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+ul{
+  padding: 0 0 0 30px;
+}
+
+li{
+  padding: 0 0 10px 0px;
+  list-style-type: circle;
+}
+
+a{
+  text-decoration: underline;
+  color: rgb(0, 0, 0);
+  opacity: 100% !important;
+  font-weight: 600;
+}
+
+a:hover{
+  color: rgb(10, 153, 224);
+}
+
+.voyyvuelvo{
+  opacity: 30%;
+}

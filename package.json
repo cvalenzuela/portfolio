@@ -1,33 +1,25 @@
 {
-  "name": "cristobal-valenzuela",
-  "description": "Cristobal Valenzuela",
-  "version": "1.0.0",
-  "author": "Cristobal Valenzuela <cris@runwayml.com>",
-  "dependencies": {
-    "gatsby": "^1.9.247",
-    "gatsby-link": "^1.6.40",
-    "gatsby-plugin-google-analytics": "1.0.31",
-    "gatsby-plugin-react-helmet": "^2.0.10",
-    "gatsby-plugin-sharp": "1.6.48",
-    "gatsby-remark-images": "1.5.67",
-    "gatsby-source-filesystem": "1.5.39",
-    "gatsby-transformer-remark": "1.7.44",
-    "react-helmet": "^5.2.0"
-  },
-  "license": "MIT",
+  "name": "p",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write 'src/**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "devDependencies": {
-    "gh-pages": "1.2.0",
-    "prettier": "^1.12.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  "dependencies": {
+    "@types/node": "20.2.5",
+    "@types/react": "18.2.8",
+    "@types/react-dom": "18.2.4",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.4",
+    "next": "13.4.4",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.3"
   }
 }
