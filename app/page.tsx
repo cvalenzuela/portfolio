@@ -43,10 +43,10 @@ export default function Home() {
         <ul className={`m-0 text-sm opacity-50`}>
           <li>2018 / <a href="https://ml5js.org/">ml5.js</a> ml5.js aims to make machine learning approachable for a broad audience of artists, creative coders, and students.</li>
           <li>2017 / <a href="https://twitter.com/c_valenzuelab/status/1026453551135055873">The Alternative Late Show.</a> Experimenting with Image-to-Image translation models (pix2pix) for character animations.</li>
-          <li>2017 / <a href="http://t2i.cvalenzuelab.com/">Text 2 Image.</a> Interactive real time text to image generation using Attentional Generative Adversarial Networks (AttnGAN).</li>
+          <li>2017 / <a href="http://t2i.cvalenzuelab.com/">Text 2 Image.</a> Interactive real-time text to image generation using Attentional Generative Adversarial Networks (AttnGAN).</li>
           <li>2017 / <a href="https://uncannyroad.com/">Uncanny Road.</a> A tool for collaboratively hallucinating a city using Generative Adversarial Neural Networks.</li>
-          <li>2017 / <a href="https://github.com/cvalenzuela/scenescoop">Scenescoop.</a> A tool to find semantically simiar scenes between two videos.</li>
-          <li>2017 / <a href="https://cvalenzuela.github.io/Selected_Stories/">Selected Stories.</a> A generative realtime text editor that uses a LSTM network in the browser to write with you. </li>
+          <li>2017 / <a href="https://github.com/cvalenzuela/scenescoop">Scenescoop.</a> A tool to find semantically similar scenes between two videos.</li>
+          <li>2017 / <a href="https://cvalenzuela.github.io/Selected_Stories/">Selected Stories.</a> A generative text editor that uses a LSTM network in the browser to generate text. </li>
           <li>2016 / <a href="https://github.com/cvalenzuela/sequential-stories">Sequential Stories.</a> An iOS app that uses a Text-to-Image model to create fictional stories using only image captions.</li>
           <li>2016 / <a href="https://cvalenzuela.github.io/interactive-music/">Word2Beat.</a> A tool that maps word embeddings or a word space vector to sound beats</li>
           <li>2015 / <a href="https://cvalenzuela.github.io/interactive-music/">Word2Beat.</a> A tool that maps word embeddings or a word space vector to sound beats</li>
