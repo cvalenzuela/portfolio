@@ -1,0 +1,14 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/cristobal/Documents/code/portfolio/app/layout.tsx": [
+      "/Users/cristobal/Documents/code/portfolio/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/cristobal/Documents/code/portfolio/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/cristobal/Documents/code/portfolio/app/page": [
+      "/Users/cristobal/Documents/code/portfolio/app/globals.css",
+      "/Users/cristobal/Documents/code/portfolio/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
