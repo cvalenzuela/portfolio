@@ -50,15 +50,11 @@ export default function Home() {
           <li>2016 / <a href="https://github.com/cvalenzuela/sequential-stories">Sequential Stories.</a> An iOS app that uses a Text-to-Image model to create fictional stories using only image captions.</li>
           <li>2016 / <a href="https://cvalenzuela.github.io/interactive-music/">Word2Beat.</a> A tool that maps word embeddings or a word space vector to sound beats</li>
           <li>2015 / <a href="https://cvalenzuela.github.io/interactive-music/">Word2Beat.</a> A tool that maps word embeddings or a word space vector to sound beats</li>
-          <li>2012 / <a href="/regresion01.png">Regression.</a> An interactive installation that uses a typewriter to create text based generative videos, T2V.</li>
+          <li>2012 / <a href="/regresion02.png">Regression.</a> An interactive installation that uses a typewriter to create text based generative videos, T2V.</li>
         </ul>
       </div>
 
-      <div className="bottom-0 pb-3 pt-20 z-10 w-full max-w-5xl text-sm lg:flex">
-
-        <p className={`pt-4 m-0 text-xs opacity-30`}>
-          © 2023 Cristobal Valenzuela.
-        </p>
+      <div className="pb-3 pt-20 z-10 w-full max-w-5xl text-sm lg:flex">
         <img 
           src="/voyyvuelvo.png"
           width={120}
@@ -66,6 +62,11 @@ export default function Home() {
           alt='voy & vuelvo'
           className='voyyvuelvo'
         />
+      </div>
+      <div className="bottom-0 pb-3 z-10 w-full max-w-5xl text-sm lg:flex">
+        <p className={`pl-5 m-0 text-xs opacity-30`}>
+          © 2023 Cristobal Valenzuela.
+        </p>
       </div>
       
     </main>
