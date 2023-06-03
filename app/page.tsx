@@ -11,7 +11,7 @@ export default function Home() {
 
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
          <p className={`m-0 text-sm opacity-60 xs:pb-6 sm:pb-5`}>
-          I'm a developer making AI tools and living in Brooklyn, NY. I'm the co-founder and CEO of <a href='https://runwayml.com'>Runway</a>.
+           I'm a developer living in Brooklyn, NY. I'm the co-founder and CEO of <a href='https://runwayml.com'>Runway</a>.
         </p>
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
