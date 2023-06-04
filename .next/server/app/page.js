@@ -343,7 +343,7 @@ function Home() {
                 children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                     className: `m-0 text-sm opacity-60 xs:pb-6 sm:pb-5`,
                     children: [
-                        "I'm a developer making AI tools and living in Brooklyn, NY. I'm the co-founder and CEO of ",
+                        "I'm a developer living in Brooklyn, NY. I'm the co-founder and CEO of ",
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                             href: "https://runwayml.com",
                             children: "Runway"
