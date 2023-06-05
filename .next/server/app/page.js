@@ -362,7 +362,7 @@ function Home() {
                             href: "https://github.com/cvalenzuela",
                             children: "open-source projects"
                         }),
-                        ", ",
+                        ", contributed to ",
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                             href: "https://arxiv.org/abs/2112.09726",
                             children: "AI research"
@@ -372,7 +372,7 @@ function Home() {
                             href: "https://ars.electronica.art/aeblog/en/2018/08/29/chile-group-show/",
                             children: "made some art"
                         }),
-                        ". I used to teach digital fabrication, statistics, and econometrics. I've also made short films, designed boardgames, and worked as a business consultant. I was born and raised in Chile."
+                        ". I used to physical computing, statistics, and econometrics. I've also made short films, designed boardgames, and worked as a business consultant. I was born and raised in Chile."
                     ]
                 })
             }),
