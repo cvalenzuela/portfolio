@@ -301,7 +301,7 @@ __webpack_require__.r(__webpack_exports__);
 
 const metadata = {
     title: "Crist\xf3bal Valenzuela",
-    description: "I'm a developer and tool maker living in Brooklyn, NY. I'm the co-founder and CEO of Runway."
+    description: "Tres"
 };
 function RootLayout({ children  }) {
     return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("html", {
@@ -386,7 +386,7 @@ function Home() {
                             href: "https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html",
                             children: " tools to augment human creativity."
                         }),
-                        " If you are also interested in that, join us. ",
+                        " Join us. ",
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                             href: "https://runwayml.com/careers",
                             children: "We are hiring."
