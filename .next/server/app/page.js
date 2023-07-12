@@ -372,7 +372,7 @@ function Home() {
                             href: "https://ars.electronica.art/aeblog/en/2018/08/29/chile-group-show/",
                             children: "made some art"
                         }),
-                        ". I used to physical computing, statistics, and econometrics. I've also made short films, designed boardgames, and worked as a business consultant. I was born and raised in Chile."
+                        ".           I was born and raised in Chile."
                     ]
                 })
             }),
@@ -386,7 +386,7 @@ function Home() {
                             href: "https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html",
                             children: " tools to augment human creativity."
                         }),
-                        " Join us. ",
+                        " If that's interesting, join us. ",
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                             href: "https://runwayml.com/careers",
                             children: "We are hiring."

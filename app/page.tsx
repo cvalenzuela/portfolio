@@ -16,9 +16,7 @@ export default function Home() {
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
         <p className={`m-0 text-sm opacity-60 xs:pb-6 sm:pb-5`}>
-          I was a researcher at ITP NYU Tisch School of the Arts. I've worked on <a href="https://github.com/cvalenzuela">open-source projects</a>, contributed to <a href="https://arxiv.org/abs/2112.09726">AI research</a>, and also <a href="https://ars.electronica.art/aeblog/en/2018/08/29/chile-group-show/">made some art</a>. 
-          I used to teach physical computing, statistics, and econometrics. I've also made short films, designed boardgames, and worked as a business consultant. 
-          I was born and raised in Chile.
+          I was a researcher at ITP NYU Tisch School of the Arts. I've worked on <a href="https://github.com/cvalenzuela">open-source projects</a>, contributed to <a href="https://arxiv.org/abs/2112.09726">AI research</a>, and also <a href="https://ars.electronica.art/aeblog/en/2018/08/29/chile-group-show/">made some art</a>.           I was born and raised in Chile.
         </p>
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
