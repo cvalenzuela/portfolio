@@ -3,7 +3,7 @@
 export default function Post() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24 xs:p-10 sm:p-16">
-   
+    <a href="/" className="back">←</a>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
 
          <p className={`m-3 text-sm opacity-90 xs:pb-6 sm:pb-10 max-w-1 post`}>

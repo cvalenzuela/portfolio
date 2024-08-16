@@ -59,3 +59,11 @@ a:hover{
   max-width: 500px;
   line-height: 1.4;
 }
+
+.back{
+  position: fixed;
+  left: 30px;
+  top: 20px;
+  font-size: 20px;
+  text-decoration: none;
+}
