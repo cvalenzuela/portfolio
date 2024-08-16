@@ -50,3 +50,12 @@ a:hover{
   opacity: 30%;
   padding: 0 0 0 10px;
 }
+
+.posts{
+  line-height: 1.2;
+}
+
+.post{
+  max-width: 500px;
+  line-height: 1.4;
+}
