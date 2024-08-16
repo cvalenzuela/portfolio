@@ -6,15 +6,14 @@ export default function Post() {
        <a href="/" className="back">←</a>
        <br/>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
-
-        
-
          <p className={`m-3 text-sm opacity-90 xs:pb-6 sm:pb-10 max-w-1 post`}>
      
          <b>Something New: Expectations vs Reality</b>
          <br/>
          <br/>
 
+<i>August 2024</i>
+<br/><br/>
 
 <u>Paint Tubes</u>
 <br/>

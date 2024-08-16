@@ -12,6 +12,9 @@ export default function Post() {
          <br/>
          <br/>
 
+         <i>March 2024</i>
+         <br/><br/>    
+
 The medium is not the goal. Art is not finished because AI can generate images. We haven't solved cinema because we invented a system that creates videos.
 <br/><br/>
 Not all videos are cinema.

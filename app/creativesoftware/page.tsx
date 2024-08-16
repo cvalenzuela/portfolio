@@ -12,6 +12,9 @@ export default function Post() {
          <br/>
          <br/>
 
+        <i>November 2023</i>
+        <br/><br/>
+
         I’m calling it. Creative software is dead. It’s the end of an era.
         <br/><br/>
         Creative software 1.0 was about separating specific tasks into domains. Vector graphics, NLE, motion graphics, image editing, 3D, audio editing, compositing, etc. are highly specialized fields.

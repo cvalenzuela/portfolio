@@ -11,6 +11,9 @@ export default function Post() {
          <b>The artist's revenge</b>
          <br/>
          <br/>
+
+         <i>May 2024</i>
+         <br/><br/>         
 I've been having a version of this same conversation with different people for the last couple of weeks: the tables have turned for artists. 
 <br/><br/>
 Being a creative or an artist working in software usually meant being confined to visualizations, marketing or creative work, and some experimental projects—often as freelancers. It was a niche, challenging role, and only a handful of very successful artists had the opportunity to make a living from creative work, exploring how frontier software could create new products, experiences, and art forms. Resources were scarce because what artists produced was seen as nice-to-have, not a must-have.

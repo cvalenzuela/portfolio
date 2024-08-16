@@ -12,6 +12,9 @@ export default function Post() {
          <br/>
          <br/>
 
+         <i>April 2024</i>
+<br/><br/>
+
 Question-answering systems and chatbots have inadvertently created a false narrative that AI can solve any problem with a simple prompt, including complex creative tasks like storytelling and filmmaking. The ability to generate video from language has been misinterpreted as the belief that you can create deep, emotionally sophisticated cinematic universes with profound stories and complex characters with just a prompt.
 <br/><br/>
 Art is not a discrete problem with clear right or wrong answers. It is a continuous exploration of ideas, emotions, and experiences that cannot be reduced to a mere input-output mechanism. This narrow view of AI fails to capture the true potential and complexity of the field, particularly when it comes to artistic applications. It reduces the creative process to a mechanical task, as if art were a problem to be solved rather than a novelty search. This misconception has led to the false dichotomy between AI-generated things and human-made stories, suggesting that they are equal or interchangeable. They are not equal. AI models applied to art are tools, they are not the goal. 

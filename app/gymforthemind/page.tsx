@@ -11,6 +11,8 @@ export default function Post() {
          <b>A gym for the mind</b>
          <br/>
          <br/>
+         <i>July 2024</i>
+         <br/><br/>    
 
 I've been watching too many people immerse themselves for hours using Gen-3, and there's this pattern that keeps popping up. It's like this:
 <br/><br/>

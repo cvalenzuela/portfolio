@@ -12,6 +12,9 @@ export default function Post() {
          <br/>
          <br/>
 
+         <i>June 2024</i>
+         <br/><br/>
+
 None of the things you will be able to make with the next generation of video/image/3d/media models are things that you can't technically do already without those models, from hyper-realism to surreal imagery and animations of all kinds. Weta, ILM, etc., have the capabilities to create and visualize any world and idea imaginable. They have had these abilities for years.
 <br/><br/>
 The limitations of today's CGI pipelines are constrained by budget and timelines, not by the ability of the tools to go where you want to take them. For example, complex fluid simulations, physics dynamics, realistic character movements, etc., are things anyone can technically learn and do today given a) enough time and b) enough resources. Traditional 3D software, game engines, NLEs, compositing, etc, are sophisticated software abstractions that have found clever ways to work around the limitations of traditional graphics principles: how fast can you design/visualize things, and how fast can you render things given how much graphics power you can afford.

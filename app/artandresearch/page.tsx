@@ -12,6 +12,9 @@ export default function Post() {
          <br/>
          <br/>
 
+         <i>January 2024</i>
+         <br/><br/>
+
 The most significant gap in AI research and art does not lie within the models themselves but rather in the approach to art. I have noticed a tendency to oversimplify the creative act. In a research setting, the goal is to control and measure variables, which leads to the assignment of constants for things that you can't measure. This logic swiftly leads to the interpretation of a "new algorithm for image generation" as a means to "be more creative." Attempting to standardize creativity as making pretty pictures simplifies the creative process to a convenient conclusion, which is why many AI tools seem designed more for engineers than for artists. It’s formulaic art. Creativity cannot be condensed into a formula for optimization. For a new technique for generating pixels on a screen to correlate with magnifying a creative act, you need four things: wonder, discovery, control, and feedback.
 <br/><br/>
 A tool dedicated to creation should facilitate wonder and discovery. The journey is just as critical as the outcome. Often, the creative process begins without a clear destination. Art is more than making pretty pictures; it's about conveying insights about the world, using tools as the medium. A proficient artist is perpetually engaged in discovery and wonder. 

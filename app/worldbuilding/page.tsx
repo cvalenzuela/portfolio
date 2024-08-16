@@ -11,7 +11,8 @@ export default function Post() {
          <b>World Building</b>
          <br/>
          <br/>
-
+         <i>March 2024</i>
+         <br/><br/>    
           Someone recently asked me what most people get wrong about AI media. Here is my answer:
           <br/><br/>
           What most people get wrong about AI media is that it represents an incremental improvement to how we currently make things. It won't simply be "AI-generated movies" or "AI-generated novels", but rather novel forms of dynamic, interactive, generative media that we can't fully picture today. Rather than simply enhancing or automating existing forms like film or gaming, the ability of AI systems to conjure up infinite permutations of imaginary worlds and narratives will lead to the emergence of something qualitatively different.

@@ -29,7 +29,7 @@ export default function Page() {
           <li><a href="/revenge">The artist's revenge</a></li>
           <li><a href="/sameness">Sameness</a></li>
           <li><a href="/askingquestions">Art is about asking questions</a></li>
-          <li><a href="/reductionism">Reductionist thinking</a></li>
+          <li><a href="/reductionism">Oversimplify</a></li>
           <li><a href="/thegoal">The medium is not the goal</a></li>
         </ul>
       </div>
