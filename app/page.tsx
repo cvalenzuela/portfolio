@@ -23,6 +23,7 @@ export default function Page() {
           <li><a href="/creativesoftware">Creative Software 2.0</a></li>
           <li><a href="/worldbuilding">World Building</a></li>
           <li><a href="/gymforthemind">A gym for the mind</a></li>
+          <li><a href="/expectationsvsreality">Expectations vs reality</a></li>
           <li><a href="/tamingthelatenspace">Taming the latent space</a></li>
           <li><a href="/artandresearch">We need more artists doing research</a></li>
           <li><a href="/revenge">The artist's revenge</a></li>
