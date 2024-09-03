@@ -27,7 +27,6 @@ export default function Page() {
           <li><a href="/somethingelse">Something else</a></li>
           <li><a href="/tamingthelatenspace">Taming the latent space</a></li>
           <li><a href="/artandresearch">We need more artists doing research</a></li>
-          <li><a href="/thingsIbelievetobetrue">Things I believe to be true</a></li>
           <li><a href="/revenge">The artist's revenge</a></li>
           <li><a href="/sameness">Sameness</a></li>
           <li><a href="/askingquestions">Art is about asking questions</a></li>
