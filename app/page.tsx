@@ -22,6 +22,7 @@ export default function Page() {
         <ul className={`m-0 text-sm opacity-70 posts`}>
           <li><a href="/creativesoftware">Creative Software 2.0</a></li>
           <li><a href="/worldbuilding">World Building</a></li>
+          <li><a href="/newmedia">New Media</a></li>
           <li><a href="/gymforthemind">A gym for the mind</a></li>
           <li><a href="/expectationsvsreality">Expectations vs reality</a></li>
           <li><a href="/somethingelse">Something else</a></li>
@@ -76,7 +77,7 @@ export default function Page() {
       </div>
       <div className="bottom-0 pb-3 z-10 w-full max-w-5xl text-sm lg:flex">
         <p className={`pl-5 m-0 text-xs opacity-30`}>
-          © 2023 Cristobal Valenzuela.
+          © 2024 Cristobal Valenzuela.
         </p>
       </div>
       

@@ -36,7 +36,7 @@ As an artist, i) know that you are worth far more than you might think. You have
       </div>
       <div className="bottom-0 pb-3 z-10 w-full max-w-5xl text-sm lg:flex">
         <p className={`pl-5 m-0 text-xs opacity-30`}>
-          © 2023 Cristobal Valenzuela.
+          © 2024 Cristobal Valenzuela.
         </p>
       </div>
       

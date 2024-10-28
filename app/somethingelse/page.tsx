@@ -51,7 +51,7 @@ Regardless of whether you believe aliens are coming or not, it's crucial to alwa
       </div>
       <div className="bottom-0 pb-3 z-10 w-full max-w-5xl text-sm lg:flex">
         <p className={`pl-5 m-0 text-xs opacity-30`}>
-          © 2023 Cristobal Valenzuela.
+          © 2024 Cristobal Valenzuela.
         </p>
       </div>
       
