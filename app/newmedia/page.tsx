@@ -30,13 +30,6 @@ This is also why pure AI companies are becoming obsolete. The interesting questi
 The end of AI companies marks the beginning of something far more interesting: the birth of truly new media. Not just new platforms or formats, but entirely new ways of creating and experiencing content. We're not building an AI company anymore. And that's a far more exciting mission. Like it has always been; back to our roots.
 <br/><br/>
 
-
-
-
-
-
-
-
           
         </p>
       </div>

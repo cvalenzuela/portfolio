@@ -20,13 +20,14 @@ export default function Page() {
 
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
         <ul className={`m-0 text-sm opacity-70 posts`}>
+          <li><a href="/newmedia">New Media</a></li>
           <li><a href="/creativesoftware">Creative Software 2.0</a></li>
           <li><a href="/worldbuilding">World Building</a></li>
-          <li><a href="/newmedia">New Media</a></li>
+          <li><a href="/meritocracy">Creative Meritocracy</a></li>
           <li><a href="/gymforthemind">A gym for the mind</a></li>
-          <li><a href="/expectationsvsreality">Expectations vs reality</a></li>
-          <li><a href="/somethingelse">Something else</a></li>
-          <li><a href="/tamingthelatenspace">Taming the latent space</a></li>
+          <li><a href="/expectationsvsreality">Expectations vs Reality</a></li>
+          <li><a href="/somethingelse">Something Else</a></li>
+          <li><a href="/tamingthelatenspace">Taming the Latent Space</a></li>
           <li><a href="/artandresearch">We need more artists doing research</a></li>
           <li><a href="/revenge">The artist's revenge</a></li>
           <li><a href="/sameness">Sameness</a></li>
