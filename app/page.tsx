@@ -25,9 +25,10 @@ export default function Page() {
           <li><a href="/worldbuilding">World Building</a></li>
           <li><a href="/meritocracy">Creative Meritocracy</a></li>
           <li><a href="/gymforthemind">A gym for the mind</a></li>
+          <li><a href="/graphicsbackwards">We're solving graphics backwards</a></li>
           <li><a href="/expectationsvsreality">Expectations vs Reality</a></li>
-          <li><a href="/somethingelse">Something Else</a></li>
-          <li><a href="/tamingthelatenspace">Taming the Latent Space</a></li>
+          <li><a href="/somethingelse">Something else</a></li>
+          <li><a href="/tamingthelatenspace">Taming the latent space</a></li>
           <li><a href="/artandresearch">We need more artists doing research</a></li>
           <li><a href="/revenge">The artist's revenge</a></li>
           <li><a href="/sameness">Sameness</a></li>
