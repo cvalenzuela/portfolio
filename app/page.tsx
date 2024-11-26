@@ -53,7 +53,7 @@ export default function Page() {
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
         <ul className={`m-0 text-sm opacity-70 posts`}>
-          <li><a href="https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html">AI Tools for the Creative Industry</a> Bloomberg Screentime, October 9th, 2024.</li>
+          <li><a href="https://www.bloomberg.com/news/videos/2024-10-10/runway-ceo-on-ai-tools-for-the-creative-industry-video">AI Tools for the Creative Industry</a> Bloomberg Screentime, October 9th, 2024.</li>
           <li><a href="https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html">Instant Videos Could Represent the Next Leap in A.I. Technology</a> The New York Times, April 4, 2023.</li>
           <li><a href="https://www.theinformation.com/articles/not-everyone-is-trying-to-build-god-runway-ceo-crist-bal-valenzuela-tries-to-dampen-the-doomerism?rc=j0jnze">‘Not Everyone Is Trying to Build God’</a> The Information, August 4, 2023.</li>
           <li><a href="https://neurips.cc/virtual/2023/75092">Workshop on Machine Learning for Creativity and Design</a> NeurIPS 2023, Dec 10, 2023.</li>
