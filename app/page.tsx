@@ -19,6 +19,12 @@ export default function Page() {
       </div>
 
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
+        <p className={`m-0 text-sm opacity-70 xs:pb-6 sm:pb-5`}>
+          Posts and Essays  
+        </p>
+      </div>
+
+      <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
         <ul className={`m-0 text-sm opacity-70 posts`}>
           <li><a href="/newmedia">New Media</a></li>
           <li><a href="/creativesoftware">Creative Software 2.0</a></li>
@@ -35,6 +41,24 @@ export default function Page() {
           <li><a href="/askingquestions">Art is about asking questions</a></li>
           <li><a href="/reductionism">Oversimplify</a></li>
           <li><a href="/thegoal">The medium is not the goal</a></li>
+        </ul>
+      </div>
+
+      <br/>
+
+      <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
+        <p className={`m-0 text-sm opacity-70 xs:pb-6 sm:pb-5`}>
+          Interviews and Talks
+        </p>
+      </div>
+      <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
+        <ul className={`m-0 text-sm opacity-70 posts`}>
+          <li><a href="https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html">AI Tools for the Creative Industry</a> Bloomberg Screentime, October 9th, 2024.</li>
+          <li><a href="https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html">Instant Videos Could Represent the Next Leap in A.I. Technology</a> The New York Times, April 4, 2023.</li>
+          <li><a href="https://www.theinformation.com/articles/not-everyone-is-trying-to-build-god-runway-ceo-crist-bal-valenzuela-tries-to-dampen-the-doomerism?rc=j0jnze">‘Not Everyone Is Trying to Build God’</a> The Information, August 4, 2023.</li>
+          <li><a href="https://neurips.cc/virtual/2023/75092">Workshop on Machine Learning for Creativity and Design</a> NeurIPS 2023, Dec 10, 2023.</li>
+          <li><a href="https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/">The Tools of Generative Art, from Flash to Neural Networks</a> Art in America, January 8, 2020.</li>
+          <li><a href="https://www.semafor.com/article/08/30/2023/runway-ceo-ai-could-usher-in-new-golden-era-of-cinema">AI could usher in new ‘golden era’ of cinema</a> Semafor, Aug 30, 2023</li>
         </ul>
       </div>
 
