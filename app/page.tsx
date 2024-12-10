@@ -30,6 +30,7 @@ export default function Page() {
           <li><a href="/creativesoftware">Creative Software 2.0</a></li>
           <li><a href="/worldbuilding">World Building</a></li>
           <li><a href="/meritocracy">Creative Meritocracy</a></li>
+          <li><a href="/the-directors-cut">The Director's Cut</a></li>
           <li><a href="/gymforthemind">A gym for the mind</a></li>
           <li><a href="/graphicsbackwards">We're solving graphics backwards</a></li>
           <li><a href="/expectationsvsreality">Expectations vs Reality</a></li>
