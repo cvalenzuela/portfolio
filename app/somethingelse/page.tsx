@@ -25,7 +25,6 @@ However, if AI is perceived as "something else" rather than technology, the "Hum
 <br/><br/>    
 Suddenly, this framing makes more sense as a potential conflict between two distinct entities. In such a scenario, one would expect most people on Earth to side with humanity. The critical point here is whether you think with AI we are actually creating a new form of life or simply developing another technology. This distinction is fundamental to how we approach and regulate AI development. The tendency to view AI as "something else" may stem from our propensity to anthropomorphize complex systems, combined with science fiction and popular media often portraying AI as sentient beings, potentially skewing public perception.
 <br/><br/>    
-Regardless of whether you believe aliens are coming or not, it's crucial to always side with humanity. We will need our human technology if they do arrive.
 
 
 
