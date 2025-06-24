@@ -26,6 +26,7 @@ export default function Page() {
 
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
         <ul className={`m-0 text-sm opacity-70 posts`}>
+          <li><a href="/the-rorschach">The Rorschach Test</a></li>
           <li><a href="/newmedia">New Media</a></li>
           <li><a href="/creativesoftware">Creative Software 2.0</a></li>
           <li><a href="/worldbuilding">World Building</a></li>
