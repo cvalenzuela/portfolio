@@ -37,7 +37,7 @@ li{
 
 a{
   text-decoration: underline;
-  color: rgb(0, 0, 0);
+  color: rgb(17, 71, 231);
   opacity: 100% !important;
   font-weight: 600;
 }
@@ -58,6 +58,7 @@ a:hover{
 .post{
   max-width: 500px;
   line-height: 1.4;
+  position: relative;
 }
 
 .back{
@@ -66,4 +67,34 @@ a:hover{
   top: 16px;
   font-size: 16px;
   text-decoration: none;
+}
+
+.inline-footnote{
+  font-size: 12px;
+  width: 100%;
+  max-width: none;
+  position: static;
+  display: block;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* On larger screens: position to the right */
+@media (min-width: 1024px) {
+  .inline-footnote {
+    position: absolute;
+    right: -280px;
+    top: 0;
+    width: 250px;
+    max-width: 250px;
+    margin: 0;
+    padding: 0;
+    border-top: none;
+    display: inline;
+  }
+}
+
+.inline-image{
+  max-width: 120%;
 }
