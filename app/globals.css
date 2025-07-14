@@ -85,7 +85,7 @@ a:hover{
   .inline-footnote {
     position: absolute;
     right: -280px;
-    top: 0;
+    top: 50px;
     width: 250px;
     max-width: 250px;
     margin: 0;
@@ -97,4 +97,9 @@ a:hover{
 
 .inline-image{
   max-width: 120%;
+}
+
+.name-inpost{
+  font-weight: normal;
+  font-size: 15px;
 }
