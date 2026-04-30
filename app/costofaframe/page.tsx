@@ -62,7 +62,7 @@ A blockbuster frame used to require a blockbuster premise, because the cost had 
 <br/><br/>
 Now you can. And that is the point.
 <br/><br/>
-To test this, I made a video in around twenty minutes. My dog, Henry, an Irish Terrier, and my neighbor’s dog, Milhouse, a Corgi, cannot stand each other. They cannot see or smell each other without reacting. Whenever one notices the other, they bark like they are about to destroy each other.
+<a href="https://x.com/c_valenzuelab/status/2048744608524325270?s=20">To test this, I made a video in around twenty minutes.</a> My dog, Henry, an Irish Terrier, and my neighbor’s dog, Milhouse, a Corgi, cannot stand each other. They cannot see or smell each other without reacting. Whenever one notices the other, they bark like they are about to destroy each other.
 <br/><br/>
 So I made a dramatization of what I imagine goes through their minds when they sense each other.
 <br/><br/>
