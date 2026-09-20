@@ -26,6 +26,7 @@ export default function Page() {
 
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
         <ul className={`m-0 text-sm opacity-70 posts`}>
+          <li><a href="/whatmakerswant">What Makers Want</a></li>
           <li><a href="/costofaframe">The Cost of a Frame</a></li>
           <li><a href="/nyuspeech">NYU Tisch Honoree Speech</a></li>
           <li><a href="/ageofdiscontents">The Age of the Discontents</a></li>
@@ -42,17 +43,17 @@ export default function Page() {
           <li><a href="/worldbuilding">World Building</a></li>
           <li><a href="/meritocracy">Creative Meritocracy</a></li>
           <li><a href="/the-directors-cut">The Director's Cut</a></li>
-          <li><a href="/gymforthemind">A gym for the mind</a></li>
-          <li><a href="/graphicsbackwards">We're solving graphics backwards</a></li>
+          <li><a href="/gymforthemind">A GYMC for the Mind</a></li>
+          <li><a href="/graphicsbackwards">We're Solving Graphics Backwards</a></li>
           <li><a href="/expectationsvsreality">Expectations vs Reality</a></li>
-          <li><a href="/somethingelse">Something else</a></li>
-          <li><a href="/tamingthelatenspace">Taming the latent space</a></li>
-          <li><a href="/artandresearch">We need more artists doing research</a></li>
-          <li><a href="/revenge">The artist's revenge</a></li>
+          <li><a href="/somethingelse">Something Else</a></li>
+          <li><a href="/tamingthelatenspace">Taming the Latent Space</a></li>
+          <li><a href="/artandresearch">We Need More Artists Doing Research</a></li>
+          <li><a href="/revenge">The Artist's Revenge</a></li>
           <li><a href="/sameness">Sameness</a></li>
-          <li><a href="/askingquestions">Art is about asking questions</a></li>
+          <li><a href="/askingquestions">Art is About Asking Questions</a></li>
           <li><a href="/reductionism">Oversimplify</a></li>
-          <li><a href="/thegoal">The medium is not the goal</a></li>
+          <li><a href="/thegoal">The Medium is Not the Goal</a></li>
         </ul>
       </div>
 
