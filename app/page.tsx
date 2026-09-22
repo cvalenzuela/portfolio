@@ -9,7 +9,7 @@ export default function Page() {
 
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
          <p className={`m-0 text-sm opacity-70 xs:pb-6 sm:pb-5`}>
-           I'm a developer living in Brooklyn, NY. I'm the co-founder and CEO of <a href='https://runwayml.com'>Runway</a>.
+           I'm a developer living in Brooklyn, NY. I'm the co-founder and CEO of <a href='https://runway.com'>Runway</a>.
         </p>
       </div>
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
@@ -28,6 +28,7 @@ export default function Page() {
         <ul className={`m-0 text-sm opacity-70 posts`}>
           <li><a href="/whatmakerswant">What Makers Want</a></li>
           <li><a href="/costofaframe">The Cost of a Frame</a></li>
+          <li><a href="/aiff2026">AI Film Festival 2026 Opening Remarks </a></li>
           <li><a href="/nyuspeech">NYU Tisch Honoree Speech</a></li>
           <li><a href="/ageofdiscontents">The Age of the Discontents</a></li>
           <li><a href="https://runwayml.com/world-simulator">Universal World Simulator</a></li>
