@@ -26,6 +26,7 @@ export default function Page() {
 
       <div className="z-10 w-full max-w-5xl items-center justify-between text-sm lg:flex">
         <ul className={`m-0 text-sm opacity-70 posts`}>
+          <li><a href="/navierstokesmoment">Art’s Navier Stokes Moment</a></li>
           <li><a href="/whatmakerswant">What Makers Want</a></li>
           <li><a href="/costofaframe">The Cost of a Frame</a></li>
           <li><a href="/aiff2026">AI Film Festival 2026 Opening Remarks </a></li>
@@ -44,7 +45,7 @@ export default function Page() {
           <li><a href="/worldbuilding">World Building</a></li>
           <li><a href="/meritocracy">Creative Meritocracy</a></li>
           <li><a href="/the-directors-cut">The Director's Cut</a></li>
-          <li><a href="/gymforthemind">A GYMC for the Mind</a></li>
+          <li><a href="/gymforthemind">A GYM for the Mind</a></li>
           <li><a href="/graphicsbackwards">We're Solving Graphics Backwards</a></li>
           <li><a href="/expectationsvsreality">Expectations vs Reality</a></li>
           <li><a href="/somethingelse">Something Else</a></li>
